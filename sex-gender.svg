@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   font-size="10px"
+   width="610.36218"
+   height="390.62555"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="sex-gender.svg"
+   style="font-size:10px;fill:none;stroke:none;font-family:sans-serif">
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs68" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="776"
+     id="namedview66"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:zoom="1.2907913"
+     inkscape:cx="331.70538"
+     inkscape:cy="165.28599"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g3207"
+     transform="matrix(1.3510424,0,0,1.3510424,-3.5104212,-3.5104309)">
+    <g
+       transform="translate(26.731809,24.325619)"
+       id="g4">
+      <a
+         id="a6"
+         title="Male">
+        <path
+           style="fill:#444488;fill-opacity:0.4;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path8"
+           d="m 0,-90 a 90,90 0 1 1 -86.458871,65.002726 l 28.819624,8.332425 A 60,60 0 1 0 0,-60 z"
+           transform="translate(275,140)"
+           cursor="crosshair" />
+      </a>
+      <a
+         id="a10"
+         title="Female">
+        <path
+           style="fill:#882222;fill-opacity:0.4;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path12"
+           d="m -86.458871,-24.997274 a 90,90 0 0 1 78.1295721,-64.616468 l 2.776433,29.871247 a 60,60 0 0 0 -52.0863811,43.077646 z"
+           transform="translate(275,140)"
+           cursor="crosshair" />
+      </a>
+    </g>
+    <text
+       pointer-events="none"
+       x="316.65826"
+       dy="3"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:normal;fill:#000000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       id="text16"
+       y="21.763645"
+       transform="matrix(0.97717795,0.21242234,-0.21242234,0.97717795,0,0)">Sex</text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       x="345.06171"
+       y="-136.01193"
+       id="text3010"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.61232945,0.79060271,-0.79060271,0.61232945,0,0)"
+       inkscape:transform-center-y="5.4780878"><tspan
+         sodipodi:role="line"
+         id="tspan3012"
+         x="345.06171"
+         y="-136.01193">Male</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       x="266.22998"
+       y="-116.85769"
+       id="text3014"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.66660083,0.74541488,-0.74541488,0.66660083,0,0)"><tspan
+         sodipodi:role="line"
+         x="266.22998"
+         y="-116.85769"
+         id="tspan3018">Female</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Constantia;-inkscape-font-specification:Constantia Bold"
+       x="86.918961"
+       y="-13.90847"
+       id="text3022"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.86634444,0.49944701,-0.49944701,0.86634444,0,0)"
+       inkscape:transform-center-x="4.0043396"
+       inkscape:transform-center-y="3.7109893"><tspan
+         sodipodi:role="line"
+         id="tspan3024"
+         x="86.918961"
+         y="-13.90847"
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Oblique">Predominately female</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Constantia;-inkscape-font-specification:Constantia Italic"
+       x="-26.894814"
+       y="268.93903"
+       id="text3026"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.93214304,-0.36209026,0.36209026,0.93214304,0,0)"
+       inkscape:transform-center-y="-4.3902775"
+       inkscape:transform-center-x="0.1430906"><tspan
+         sodipodi:role="line"
+         id="tspan3028"
+         x="-26.894814"
+         y="268.93903"
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Oblique">Predominately male</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Constantia;-inkscape-font-specification:Constantia Italic"
+       x="28.205833"
+       y="104.75523"
+       id="text3030"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98358727,0.18043304,-0.18043304,0.98358727,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3032"
+         x="28.205833"
+         y="104.75523"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Constantia Italic">Equal parts male and female</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       x="460.86044"
+       y="70.950645"
+       id="text3010-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.95269334,0.30393322,-0.30393322,0.95269334,0,0)"
+       inkscape:transform-center-y="-7.3288232"
+       inkscape:transform-center-x="-0.3294271"><tspan
+         sodipodi:role="line"
+         id="tspan3012-3"
+         x="460.86044"
+         y="70.950645">Male</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       x="124.19315"
+       y="-186.84003"
+       id="text3014-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.50290895,0.8643394,-0.8643394,0.50290895,0,0)"><tspan
+         sodipodi:role="line"
+         x="124.19315"
+         y="-186.84003"
+         id="tspan3018-7"
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans Oblique">Female</tspan></text>
+    <g
+       transform="translate(26.731809,24.325619)"
+       id="g18">
+      <text
+         style="text-anchor:middle;fill:#000000"
+         id="text20"
+         transform="matrix(0.60093782,0.79929578,-0.79929578,0.60093782,320.07034,199.94718)"
+         dy="2.8496985e-36"
+         pointer-events="none">79.5%</text>
+      <text
+         style="text-anchor:middle;fill:#000000"
+         id="text22"
+         transform="matrix(0.63731897,0.77060011,-0.77060011,0.63731897,227.20108,82.204992)"
+         dy="2.8496526e-36"
+         pointer-events="none">19.0%</text>
+    </g>
+    <g
+       transform="translate(26.731809,24.325619)"
+       id="g24">
+      <a
+         id="a26"
+         title="Male">
+        <path
+           style="fill:#444488;fill-opacity:0.4;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path28"
+           d="M 0,-120 A 120,120 0 1 1 -77.106668,91.948691 L -58.472556,69.727758 A 91,91 0 1 0 0,-91 z"
+           transform="translate(275,140)"
+           cursor="crosshair" />
+      </a>
+      <a
+         id="a30"
+         title="Predominantly male">
+        <path
+           style="fill:#666688;fill-opacity:0.4;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path32"
+           d="M -77.106668,91.948691 A 120,120 0 0 1 -119.93845,-3.8428532 l 28.985123,0.9286895 a 91,91 0 0 0 32.480771,72.6419217 z"
+           transform="translate(275,140)"
+           cursor="crosshair" />
+      </a>
+      <a
+         id="a34"
+         title="Equal parts male and female">
+        <path
+           style="fill:#886688;fill-opacity:0.3;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path36"
+           d="m -119.93845,-3.8428532 a 120,120 0 0 1 7.76776,-38.7920658 l 27.107917,10.303438 a 91,91 0 0 0 -5.890554,29.4173173 z"
+           transform="translate(275,140)"
+           cursor="crosshair" />
+      </a>
+      <a
+         id="a38"
+         title="Predominantly female">
+        <path
+           style="fill:#886666;fill-opacity:0.4;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path40"
+           d="m -112.17069,-42.634919 a 120,120 0 0 1 24.17004,-38.948692 l 21.266824,19.716039 a 91,91 0 0 0 -18.328947,29.536091 z"
+           transform="translate(275,140)"
+           cursor="crosshair" />
+      </a>
+      <a
+         id="a42"
+         title="Female">
+        <path
+           style="fill:#882222;fill-opacity:0.4;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           id="path44"
+           d="m -88.00065,-81.583611 a 120,120 0 0 1 77.546487,-37.960149 l 2.5264225,28.889742 a 91,91 0 0 0 -58.8060855,28.786446 z"
+           transform="translate(275,140)"
+           cursor="crosshair" />
+      </a>
+    </g>
+    <g
+       transform="matrix(0.97740969,0.21135354,-0.21135354,0.97740969,40.565699,-35.27199)"
+       id="g46">
+      <text
+         id="text48"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:normal;fill:#000000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         transform="translate(275,34.5)"
+         dy="3"
+         x="3"
+         pointer-events="none">Gender</text>
+    </g>
+    <g
+       transform="translate(26.731809,24.325619)"
+       id="g50">
+      <text
+         style="text-anchor:middle;fill:#000000"
+         id="text52"
+         transform="matrix(0.93974441,0.34187783,-0.34187783,0.93974441,374.14303,176.06811)"
+         dy="2.8492623e-36"
+         pointer-events="none">61.1%</text>
+      <text
+         style="text-anchor:middle;fill:#000000"
+         id="text54"
+         transform="matrix(0.91289755,-0.40818876,0.40818876,0.91289755,178.68931,183.06391)"
+         dy="2.8492164e-36"
+         pointer-events="none">14.4%</text>
+      <text
+         style="text-anchor:middle;fill:#000000"
+         id="text56"
+         transform="matrix(0.9805352,0.19634337,-0.19634337,0.9805352,171.55354,119.28577)"
+         dy="2.8491704e-36"
+         pointer-events="none">5.3%</text>
+      <text
+         style="text-anchor:middle;fill:#000000"
+         id="text58"
+         transform="matrix(0.84968914,0.52728396,-0.52728396,0.84968914,185.3578,84.371542)"
+         dy="2.8491245e-36"
+         pointer-events="none">6.1%</text>
+      <text
+         style="text-anchor:middle;fill:#000000"
+         id="text60"
+         transform="matrix(0.43966376,0.89816245,-0.89816245,0.43966376,228.61547,45.243862)"
+         dy="2.8520173e-36"
+         pointer-events="none">11.7%</text>
+    </g>
+  </g>
+</svg>
