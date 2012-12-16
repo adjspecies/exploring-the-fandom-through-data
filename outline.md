@@ -1,107 +1,117 @@
 * Exploring the furry fandom
-  * I'm Matthew Scott, or Makyo
-  * Write for \[adjective\]\[species\] along with Klisoura the collie, Zik the otter, and the awesome JM, an Australian horse in the UK.
-  * Want to talk about exploring furry through data
+    * I'm Matthew Scott, or Makyo
+    * Write for \[adjective\]\[species\] along with Klisoura the collie, Zik the otter, Rabbit, and the awesome JM, an Australian horse in the UK.
+    * Want to talk about exploring furry through data
 * Why?
 * Furry is interesting
-  * Growing fast
-  * No membership requirements
-  * Spans boundaries
-* There’s  lot to explore
-  * Understanding individual aspects
-  * Understanding change over time
-  * Making sense of the fandom as a whole
-* So what is exploring
+    * Growing fast
+    * No membership requirements
+    * Spans boundaries
+* There’s a lot to explore
+    * Understanding individual aspects
+    * Understanding change over time
+    * Making sense of the fandom as a whole
+* So what is exploring?
 * Collection
-  * First we need to collect information
-  * Two main resources
-  * Surveys and spelunking for outside data
-  * Introspection for inside data
+    * First we need to collect information
+    * Two main resources
+    * Surveys and spelunking for outside data
+    * Introspection for inside data
 * Understanding
-  * Looking through data
-  * Searching for stories
-  * Verifying against other sources
-  * Deciding on interesting points
+    * Looking through data
+    * Searching for stories
+    * Verifying against other sources
+    * Deciding on interesting points
 * Giving back
-  * Data presentation
-  * Data visualization
-  * Data accessibility
-  * Data description
+    * Data presentation
+    * Data visualization
+    * Data accessibility
+    * Data description
 * Dialog
-  * Sharing - social currency
-  * Commenting
-  * Differing opinions
-  * What’s missing
+    * Sharing - social currency
+    * Commenting
+    * Differing opinions
+    * What’s missing
 * Explore cycle
-  * Exploration is really a cycle
-  * Collect data
-  * Piece it together into a story
-  * Pull it into a presentable format
-  * Start a dialog
-  * Learn what/where/how to collect next time
+    * Exploration is really a cycle
+    * Collect data
+    * Piece it together into a story
+    * Pull it into a presentable format
+    * Start a dialog
+    * Learn what/where/how to collect next time
+* For example
+    * Here's a small example of a story told through data
+    * JM wanted to explore how furry might help one re-evaluate their sexual preference
+    * Collected pertinent data to work with - years in the fandom correlated with sexual orientation
+    * Trend was visible
+    * Pulled into a vis (slide)
+    * Started dialog with article (slide)
+    * Learn where to go next
 * What do we have to work with?
-  * Gerbasi et al.
-  * Anthropomorphic research project
-  * Klisoura
-  * \[a\]\[s\]
-  * Some others
-  * Introspection, but will get into that later
+    * Gerbasi et al.
+    * Anthropomorphic research project
+    * Klisoura
+    * \[a\]\[s\]
+    * Some others
+    * Introspection, but will get into that later
 * What have we learned so far?
-  * Quite a bit, really  * Diverse fandom in some ways, not others
-  * Growing fandom
-  * Problems with our own definition
-  * But that’s okay, leads to looser membership “requirements”
+    * Quite a bit, really
+    * Diverse fandom in some ways, not others
+    * Growing fandom
+    * Problems with our own definition
+    * But that’s okay, leads to looser membership “requirements”
 * Before I continue...
-  * Want everyone to pay attention to something
-  * I am going to talk about the following things:
-    * sex and gender
-    * sexual orientation
-    * importance of sex
-    * age
-    * population distribution
-  * Pay attention to your own reaction
-  * What is surprising and new?
-  * What did you already expect was the case?
-  * Will explain why this is important after.
+    * Want everyone to pay attention to something
+    * I am going to talk about the following things:
+        * sex and gender
+        * sexual orientation
+        * importance of sex
+        * age
+        * population distribution
+    * Pay attention to your own reaction
+    * What is surprising and new?
+    * What did you already expect was the case?
+    * Will explain why this is important after.
 * Sex and Gender
-  * Wide gap here
-  * The 80-20 numbers are telling
-  * Ties in with the next slide
+    * Wide gap here
+    * The 80-20 numbers are telling
+    * Ties in with the next slide
 * Orientation
-  * Kind of heartening
-  * Oft-quoted 10%
-  * More even spread along kinsey scale
-  * Tie in with last slide: large number of same-sex relationships due to the skewed gender numbers (i.e.: many who identify as bi wind up in same-sex relationships)
+    * Kind of heartening
+    * Oft-quoted 10%
+    * More even spread along kinsey scale
+    * Tie in with last slide: large number of same-sex relationships due to the skewed gender numbers (i.e.: many who identify as bi wind up in same-sex relationships)
 * The importance of sex
-  * Perhaps a little surprising?
-  * Explain numbers:
-    * Blue: importance to respondent. Not terribly important
-    * Green: perceived importance to rest of fandom. More important than self
-    * Red: perceived importance to fandom by public. Big difference
-  * What does this say?
-  * Are we really crazy sexual, or are we just defensive about sexuality?
+    * Perhaps a little surprising?
+    * Explain numbers:
+        * Blue: importance to respondent. Not terribly important
+        * Green: perceived importance to rest of fandom. More important than self
+        * Red: perceived importance to fandom by public. Big difference
+    * What does this say?
+    * Are we really crazy sexual, or are we just defensive about sexuality?
 * Age
-  * Not too surprising that furry is young
-  * Still a long tail
-  * Does this also imply that there’s a drop-out age?
+    * Not too surprising that furry is young
+    * Still a long tail
+    * Does this also imply that there’s a drop-out age?
 * Population distribution
-  * US
-    * This is one way to correct for population density
-    * California in the lead, not too surprising, maybe
-    * Doing pretty well in Colorado!
-  * World
-    * Disclaimer: english survey, raw data
-    * Even so, casual observation makes it feel as though it’s relatively true
-    * What about the US makes it so easy to wind up in the fandom?
-    * Possibilities: access to net, access to travel, but could be as simple as having so many examples and role models in societal subconscious (Coyote up to Ratatouille)
-* Doxa and Introspection  * What is doxa?
-  * What we accept as truth without needing proof, common belief and judgement
-  * What is the doxa within the fandom?
-  * Look at the data:
-  * What is intuitive?
-  * What is surprising?
+    * US
+        * This is one way to correct for population density
+        * California in the lead, not too surprising, maybe
+        * Doing pretty well in Colorado!
+    * World
+        * Disclaimer: english survey, raw data
+        * Even so, casual observation makes it feel as though it’s relatively true
+        * What about the US makes it so easy to wind up in the fandom?
+        * Possibilities: access to net, access to travel, but could be as simple as having so many examples and role models in societal subconscious (Coyote up to Ratatouille)
+* Doxa and Introspection
+    * What is doxa?
+    * What we accept as truth without needing proof, common belief and judgement
+    * What is the doxa within the fandom?
+    * Look at the data:
+    * What is intuitive?
+    * What is surprising?
 * Where do we go from here?
-  * This was our dialog. What do we need to collect?
-  * Where can studies be improved?
-  * Where can we gain more information?
+    * This was part of our dialog. What do we need to collect?
+    * Where can studies be improved?
+    * Where can we gain more information?
 * (Open for questions)
