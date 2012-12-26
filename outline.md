@@ -67,7 +67,6 @@
         * sexual orientation
         * importance of sex
         * age
-        * population distribution
     * Pay attention to your own reaction
     * What is surprising and new?
     * What did you already expect was the case?
@@ -93,16 +92,10 @@
     * Not too surprising that furry is young
     * Still a long tail
     * Does this also imply that there’s a drop-out age?
-* Population distribution
-    * US
-        * This is one way to correct for population density
-        * California in the lead, not too surprising, maybe
-        * Doing pretty well in Colorado!
-    * World
-        * Disclaimer: english survey, raw data
-        * Even so, casual observation makes it feel as though it’s relatively true
-        * What about the US makes it so easy to wind up in the fandom?
-        * Possibilities: access to net, access to travel, but could be as simple as having so many examples and role models in societal subconscious (Coyote up to Ratatouille)
+* Population distribution - US
+    * This is one way to correct for population density
+    * California in the lead, not too surprising, maybe
+    * Doing pretty well in Colorado!
 * Doxa and Introspection
     * What is doxa?
     * What we accept as truth without needing proof, common belief and judgement
@@ -110,8 +103,19 @@
     * Look at the data:
     * What is intuitive?
     * What is surprising?
+* Letting go of doxa
+    * Sometimes necessary to let go of an idea
+    * Can be difficult to do, but necesssary
+    * For example, wanted to explore average charity donation per con attendee
+    * Expected donation/attendee to increase as attendance increased due to social aspect of giving
+    * Reality is more complicated (slide)
+    * Total donations have increased, but donations aren't just from attendees (slide)
+    * Have to let go of a concept in order to get down to the truth of things
 * Where do we go from here?
-    * This was part of our dialog. What do we need to collect?
+    * This was part of our dialog
+    * There's a lot of data (slide)
+    * Needs to be sorted, stories need to be found (slide)
+    * What do we need to collect? (slide)
     * Where can studies be improved?
     * Where can we gain more information?
 * (Open for questions)
