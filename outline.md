@@ -1,13 +1,15 @@
 * Exploring the furry fandom
-    * I'm Matthew Scott, or Makyo
-    * Write for \[adjective\]\[species\] along with Klisoura the collie, Zik the otter, Rabbit, and the awesome JM, an Australian horse in the UK.
+    * I'm Makyo
+    * Write for \[adjective\]\[species\] along with Klisoura the coyote, Zik the otter, Rabbit, Jakebe the jackalope, and the awesome JM, an Australian horse in the UK.
     * Want to talk about exploring furry through data
 * Why?
 * Furry is interesting
     * Growing fast
+        * How to estimate growth - responses vs. convention attendance
+        * Growth over the last five years
     * No membership requirements
     * Spans boundaries
-* There’s a lot to explore
+* There's a lot to explore
     * Understanding individual aspects
     * Understanding change over time
     * Making sense of the fandom as a whole
@@ -31,7 +33,7 @@
     * Sharing - social currency
     * Commenting
     * Differing opinions
-    * What’s missing
+    * What's missing
 * Explore cycle
     * Exploration is really a cycle
     * Collect data
@@ -50,7 +52,7 @@
 * What do we have to work with?
     * Gerbasi et al.
     * Anthropomorphic research project
-    * Klisoura
+    * The Furry Survey
     * \[a\]\[s\]
     * Some others
     * Introspection, but will get into that later
@@ -59,18 +61,29 @@
     * Diverse fandom in some ways, not others
     * Growing fandom
     * Problems with our own definition
-    * But that’s okay, leads to looser membership “requirements”
+    * But that's okay, leads to looser membership "requirements"
 * Before I continue...
     * Want everyone to pay attention to something
     * I am going to talk about the following things:
+        * age
+        * race
         * sex and gender
         * sexual orientation
+        * relationship status
         * importance of sex
-        * age
     * Pay attention to your own reaction
+    * Look around you and see how this compares to what you observe.
     * What is surprising and new?
     * What did you already expect was the case?
     * Will explain why this is important after.
+* Age
+    * Not too surprising that furry is young
+    * Still a long tail
+    * Does this also imply that there's a drop-out age?
+* Race
+    * Far and away white
+    * Fairly stable over time, but slowly diversifying
+    * What sort of story could lead to this data?
 * Sex and Gender
     * Wide gap here
     * The 80-20 numbers are telling
@@ -80,22 +93,21 @@
     * Oft-quoted 10%
     * More even spread along kinsey scale
     * Tie in with last slide: large number of same-sex relationships due to the skewed gender numbers (i.e.: many who identify as bi wind up in same-sex relationships)
+* Relationship status
+    * While we're on the subject...
+    * Explain the graphs
+        * Relationship status: more single than perhaps expected
+        * Polyamory - sexual and romantic (2013): more open sexually than romantically; how does this compare to the world at large?
+        * Partner is a furry (5yr mean): maybe surprising that respondents often have non-furry partners
 * The importance of sex
     * Perhaps a little surprising?
-    * Explain numbers:
-        * Blue: importance to respondent. Not terribly important
-        * Green: perceived importance to rest of fandom. More important than self
-        * Red: perceived importance to fandom by public. Big difference
+    * Explaination of the four graphs:
+        * importance to respondent. Not terribly important
+        * perceived importance to rest of fandom. More important than self
+        * perceived importance to fandom as a whole. Similar.
+        * perceived importance to fandom by public. Big difference
     * What does this say?
     * Are we really crazy sexual, or are we just defensive about sexuality?
-* Age
-    * Not too surprising that furry is young
-    * Still a long tail
-    * Does this also imply that there’s a drop-out age?
-* Population distribution - US
-    * This is one way to correct for population density
-    * California in the lead, not too surprising, maybe
-    * Doing pretty well in Colorado!
 * Doxa and Introspection
     * What is doxa?
     * What we accept as truth without needing proof, common belief and judgement
