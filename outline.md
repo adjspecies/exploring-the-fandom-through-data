@@ -1,6 +1,6 @@
 * Exploring the furry fandom
     * I'm Makyo
-    * Write for \[adjective\]\[species\] along with Klisoura the coyote, Zik the otter, Rabbit, Jakebe the jackalope, and the awesome JM, an Australian horse in the UK.
+    * Write for \[adjective\]\[species\] along with Klisoura the coyote, the awesome JM, an Australian horse in the UK, and a few others.
     * Want to talk about exploring furry through data
 * Why?
 * Furry is interesting
